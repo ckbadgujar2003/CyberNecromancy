@@ -18,7 +18,7 @@ In the shadowy corners of the digital realm, CyberNecromancy delves into the mys
 
 Here’s what you can explore within CyberNecromancy:
 
-- Cryptic Exploits: Samples and experiments with various types of exploits and vulnerabilities.
+- [SEH Overflow](seh_overflow_exploit/): Gain unauthorized control over a vulnerable application by manipulating its structured exception handling mechanism.
 - Shadow Tools: Utilities and scripts designed for dark magic—think penetration testing tools and more.
 - Arcane Analysis: Explorations into malware analysis, reverse engineering, and other enigmatic practices.
 
