@@ -1,4 +1,4 @@
-### CyberNecromancy
+# CyberNecromancy
 
 Welcome to CyberNecromancy, a repository of intriguing cybersecurity mini-projects. Here, you'll find a collection of my personal experiments, tools, and snippets inspired by the enigmatic world of cybersecurity and exploit development.
 
@@ -8,7 +8,6 @@ Welcome to CyberNecromancy, a repository of intriguing cybersecurity mini-projec
 - [Projects](#projects)
 - [Getting Started](#getting-started)
 - [License](#license)
-- [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 
 ## Introduction
