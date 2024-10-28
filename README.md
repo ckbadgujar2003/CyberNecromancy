@@ -28,7 +28,7 @@ To get started with the projects in necr0mancer:
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/necr0mancer.git
+   git clone https://github.com/ckbadgujar2003/necr0mancer.git
    ```
 
 2. Navigate to the Project Directory:
