@@ -1,6 +1,6 @@
-# CyberNecromancy
+# necr0mancer
 
-Welcome to CyberNecromancy, a repository of intriguing cybersecurity mini-projects. Here, you'll find a collection of my personal experiments, tools, and snippets inspired by the enigmatic world of cybersecurity and exploit development.
+Welcome to necr0mancer, a repository of intriguing cybersecurity mini-projects. Here, you'll find a collection of my personal experiments, tools, and snippets inspired by the enigmatic world of cybersecurity and exploit development.
 
 ## Table of Contents
 
@@ -12,11 +12,11 @@ Welcome to CyberNecromancy, a repository of intriguing cybersecurity mini-projec
 
 ## Introduction
 
-In the shadowy corners of the digital realm, CyberNecromancy delves into the mysterious and often hidden aspects of cybersecurity. Whether you’re a seasoned security expert or an aspiring necromancer of the digital world, these projects offer a glimpse into the darker side of technology.
+In the shadowy corners of the digital realm, necr0mancer delves into the mysterious and often hidden aspects of cybersecurity. Whether you’re a seasoned security expert or an aspiring necromancer of the digital world, these projects offer a glimpse into the darker side of technology.
 
 ## Projects
 
-Here’s what you can explore within CyberNecromancy:
+Here’s what you can explore within necr0mancer:
 
 - [SEH Overflow](seh_overflow_exploit/): Gain unauthorized control over a vulnerable application by manipulating its structured exception handling mechanism.
 - Shadow Tools: Utilities and scripts designed for dark magic—think penetration testing tools and more.
@@ -24,16 +24,16 @@ Here’s what you can explore within CyberNecromancy:
 
 ## Getting Started
 
-To get started with the projects in CyberNecromancy:
+To get started with the projects in necr0mancer:
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/CyberNecromancy.git
+   git clone https://github.com/yourusername/necr0mancer.git
    ```
 
 2. Navigate to the Project Directory:
    ```bash
-   cd CyberNecromancy
+   cd necr0mancer
    ```
 
 3. Explore the Projects: Each project includes its own documentation and usage instructions.
@@ -44,4 +44,4 @@ This repository is licensed under the [Apache License 2.0](LICENSE). Note that w
 
 ## Disclaimer
 
-CyberNecromancy contains experimental and educational material. The repository may include code snippets from other sources, and while every effort is made to credit original authors, please verify and comply with respective licenses. The inclusion of potentially harmful code is for educational purposes only—use it responsibly and at your own risk.
+necr0mancer contains experimental and educational material. The repository may include code snippets from other sources, and while every effort is made to credit original authors, please verify and comply with respective licenses. The inclusion of potentially harmful code is for educational purposes only—use it responsibly and at your own risk.
