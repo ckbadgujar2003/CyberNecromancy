@@ -1,6 +1,6 @@
 # necr0mancer
 
-Welcome to necr0mancer, a repository of intriguing cybersecurity mini-projects. Here, you'll find a collection of my personal experiments, tools, and snippets inspired by the enigmatic world of cybersecurity and exploit development.
+Welcome to necr0mancer, a repository of intriguing cybersecurity research and mini-projects. Here, you'll find a collection of my personal research, experiments, tools, and snippets inspired by the enigmatic world of cybersecurity and exploit development.
 
 ## Table of Contents
 
