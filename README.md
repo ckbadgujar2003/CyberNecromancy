@@ -19,8 +19,8 @@ In the shadowy corners of the digital realm, necr0mancer delves into the mysteri
 Here’s what you can explore within necr0mancer:
 
 - [SEH Overflow](seh_overflow_exploit/): Gain unauthorized control over a vulnerable application by manipulating its structured exception handling mechanism.
-- Shadow Tools: Utilities and scripts designed for dark magic—think penetration testing tools and more.
-- Arcane Analysis: Explorations into malware analysis, reverse engineering, and other enigmatic practices.
+- [DoS Crash](computer_crasher/): Cause a crash in Windows OS due to process exhaustion by overloading system resources.
+- [Buffer Overflow](buffer_overflow_exploit/): Take control of the EIP register to execute malicious code through memory overwrite exploiting buffer overflow.     
 
 ## Getting Started
 
